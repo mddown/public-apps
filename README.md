@@ -5,3 +5,4 @@ These applications may become unavailable as I am no longer affiliated with the 
 - https://www1.nyc.gov/site/planning/zoning/index-map.page
 - http://dcp.maps.arcgis.com/apps/MapJournal/index.html?appid=15c2b6a9fa2842c7b8b1dc7517df2535
 - http://dcp.maps.arcgis.com/apps/MapJournal/index.html?appid=f941ce15e1494c75a7eb1b2f9c2754f2
+- http://panynj.maps.arcgis.com/apps/View/index.html?appid=ba01dcb4c453411295eb6b083b79785c
